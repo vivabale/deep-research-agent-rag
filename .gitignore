@@ -25,5 +25,8 @@ Thumbs.db
 .chainlit/
 .files/
 outputs/
-storage/conda 
-assets/demo.mp4 
+storage/
+
+# Excluded files
+conda
+assets/demo.mp4
