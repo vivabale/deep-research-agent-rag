@@ -25,4 +25,5 @@ Thumbs.db
 .chainlit/
 .files/
 outputs/
-storage/
+storage/conda 
+assets/demo.mp4 
