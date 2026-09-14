@@ -29,13 +29,6 @@ A production-ready multi-agent autonomous research system built with LangGraph a
 
 ---
 
-## Demo
-
-https://github.com/user-attachments/assets/df8404c6-7423-4a49-864a-bd4d59885c1b
-
-*Watch the full demo video to see the Deep Research Agent in action, showcasing the multi-agent workflow, real-time progress updates, and comprehensive report generation.*
-
----
 
 ## Features
 
@@ -76,11 +69,6 @@ https://github.com/user-attachments/assets/df8404c6-7423-4a49-864a-bd4d59885c1b
 
 ---
 
-## Architecture
-
-### High-Level Flow
-
-![Deep Research Agent Flow Diagram](assets/flow.png)
 
 ### Agent Responsibilities
 
