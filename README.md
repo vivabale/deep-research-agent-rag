@@ -504,16 +504,6 @@ When triggered, up to `RAG_TOP_K` chunks are retrieved from the local knowledge 
 | `.pdf` | `PDFLoader` | Via `pypdf`, page-by-page extraction |
 | `.docx`| `DocxLoader` | Via `python-docx`, paragraph extraction |
 
-### Validation
-
-The RAG pipeline has been validated with:
-
-- **1754 indexed chunks** across 6 documents
-- TXT and PDF knowledge documents
-- Semantic retrieval testing (top scores 0.78–0.83 for relevant queries)
-
----
-
 ## API Reference
 
 ### Core Functions
